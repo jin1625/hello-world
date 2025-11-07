@@ -1,3 +1,2 @@
 # hello-world
-# Choi Do Hyeok
-
+# Choi Do Hyeok , 22
