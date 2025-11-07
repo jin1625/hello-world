@@ -1,2 +1,3 @@
 # hello-world
-# Choi Do Hyeok , 22
+# Choi Do Hyeok
+# 22years old
